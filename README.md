@@ -1,2 +1,16 @@
-Nmap Scanning Project: Identify the operating system, running services, and potential vulnerabilities on the target IP 
-192.168.88.123to understand its infrastructure and assess security measures.
+# Nmap Scanning Project
+
+This project involves performing network scanning using Nmap to identify open ports, services, and potential vulnerabilities on a target system.
+
+## Tools Used
+- Nmap
+- Kali Linux
+- VirtualBox
+
+## Key Findings
+- Identified open ports and services
+- Detected potential vulnerabilities
+- Assessed the security posture of the target system
+
+## Documentation
+For detailed steps and screenshots, refer to the [Nmap Network Scan Documentation](nmap-network-scan-documentation.pdf).
